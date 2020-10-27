@@ -15,9 +15,9 @@ const ResultsAray = [
     description: `Working on the rewrite of our Campus Connect application using React Native, Typescript, Firebase and Redux...`,
   },
   {
-    title: 'Project Lead, Developer Student Clubs',
-    link: 'https://utsc.developerstudentclubs.ca/',
-    description: `Lead a team of four in the development of a Flutter Application to participate in Google's 2020 DSC solutions challenge...`,
+    title: 'Project Lead for all 3 projects',
+    link: 'https://bootcamp.rutgers.edu/',
+    description: `Lead a team of four in the development of each Application to participate in Rutgers 2020 Full Stack Development Course...`,
   },
   {
     title: 'Front End Developer, Illustrious Comics',

@@ -5,19 +5,19 @@ const ResultsAray = [
     description: `Most likely to be given a front-end role in projects while also been given nominations to project lead..`,
   },
   {
-    title: 'Software Engineer Intern, ',
-    link: 'https://www.ibm.com/cloud',
-    description: `Developed and maintained various microservices using Elixir, Python, Ruby, and Node. Deployed microservices to Kubernetes with Helm, built various frontend components with ReactJS and VueJS...`,
+    title: 'Manager, Improved Operation',
+    link: 'https://www.goat.com/',
+    description: `Eliminated an excess amount of overtime by identifying the root causation improving on work processes and effiency..`,
   },
   {
-    title: 'Lead Developer, Network Re-Engineered Inc',
-    link: 'https://www.campusconnect.ca/company',
-    description: `Working on the rewrite of our Campus Connect application using React Native, Typescript, Firebase and Redux...`,
+    title: 'Future Lead Developer',
+    link: 'https://www.uniqlo.com/us/en/home/',
+    description: `Future Front-End Developer for major fashion companies`,
   },
   {
-    title: 'Project Lead, Developer Student Clubs',
-    link: 'https://utsc.developerstudentclubs.ca/',
-    description: `Lead a team of four in the development of a Flutter Application to participate in Google's 2020 DSC solutions challenge...`,
+    title: 'Project Lead, All 3 projects',
+    link: 'https://bootcamp.rutgers.edu/',
+    description: `Lead a team of four in the development of each Application to participate in Rutgers 2020 Full Stack Development Bootcamp...`,
   },
   {
     title: 'Front End Developer, Illustrious Comics',

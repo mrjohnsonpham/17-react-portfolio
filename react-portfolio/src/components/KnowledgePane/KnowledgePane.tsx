@@ -73,9 +73,6 @@ const InfoPanel: React.FC = () => {
         <b>Height: </b> 1.73 m (5 feet 8 and 7/64 inches)*
       </p>
       <p>
-        <b>Net Worth: </b> U.S $86.9 Dollars (December 2019)
-      </p>
-      <p>
         <b>Education: </b>{' '}
         <a
           href="https://bootcamp.rutgers.edu/"
